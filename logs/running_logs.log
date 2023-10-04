@@ -1,0 +1,358 @@
+[2023-10-03 15:33:19,007: INFO: main: Welcome to our custom logging]
+[2023-10-04 12:48:25,107: INFO: common: yaml file config\config.yaml loaded successfully]
+[2023-10-04 12:48:25,173: INFO: common: yaml file params.yaml loaded successfully]
+[2023-10-04 12:48:25,183: INFO: common: created directory at : artifacts]
+[2023-10-04 12:48:25,186: INFO: common: created directory at : artifacts/data_ingestion]
+[2023-10-04 12:51:01,237: INFO: common: yaml file config\config.yaml loaded successfully]
+[2023-10-04 12:51:01,242: INFO: common: yaml file params.yaml loaded successfully]
+[2023-10-04 12:51:01,246: INFO: common: created directory at : artifacts]
+[2023-10-04 12:51:01,248: INFO: common: created directory at : artifacts/data_ingestion]
+[2023-10-04 12:51:06,250: INFO: 239898350: artifacts/data_ingestion/data.zip download! with the following info  : 
+  Connection: close
+Content-Length: 7903594
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "dbc016a060da18070593b83afff580c9b300f0b6ea4147a7988433e04df246ca"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: A16E:7FBE:81C1C5:9E3870:651D125D
+Accept-Ranges: bytes
+Date: Wed, 04 Oct 2023 07:21:03 GMT
+Via: 1.1 varnish
+X-Served-By: cache-maa10246-MAA
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1696404063.728335,VS0,VE719
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 274894598c57e77a978db57ce5a6a5a6487643bd
+Expires: Wed, 04 Oct 2023 07:26:03 GMT
+Source-Age: 0
+
+]
+[2023-10-04 13:11:02,268: INFO: main: Welcome to our custom logging]
+[2023-10-04 13:11:02,269: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2023-10-04 13:11:02,271: INFO: common: yaml file config\config.yaml loaded successfully]
+[2023-10-04 13:11:02,272: INFO: common: yaml file params.yaml loaded successfully]
+[2023-10-04 13:11:02,274: INFO: common: created directory at : artifacts]
+[2023-10-04 13:11:02,275: INFO: common: created directory at : artifacts/data_ingestion]
+[2023-10-04 13:11:05,933: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with the following info  : 
+  Connection: close
+Content-Length: 7903594
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "dbc016a060da18070593b83afff580c9b300f0b6ea4147a7988433e04df246ca"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: A16E:7FBE:81C1C5:9E3870:651D125D
+Accept-Ranges: bytes
+Date: Wed, 04 Oct 2023 07:41:03 GMT
+Via: 1.1 varnish
+X-Served-By: cache-maa10239-MAA
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1696405263.148421,VS0,VE321
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: e52efea36472ff245522618e28b46e55d240f5cf
+Expires: Wed, 04 Oct 2023 07:46:03 GMT
+Source-Age: 0
+
+]
+[2023-10-04 13:11:06,309: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2023-10-04 17:17:09,431: INFO: common: yaml file config\config.yaml loaded successfully]
+[2023-10-04 17:17:09,447: INFO: common: yaml file params.yaml loaded successfully]
+[2023-10-04 17:17:09,449: INFO: common: created directory at : artifacts]
+[2023-10-04 17:17:09,451: INFO: common: created directory at : artifacts/data_validation]
+[2023-10-04 17:18:04,903: INFO: common: yaml file config\config.yaml loaded successfully]
+[2023-10-04 17:18:04,907: INFO: common: yaml file params.yaml loaded successfully]
+[2023-10-04 17:18:04,910: INFO: common: created directory at : artifacts]
+[2023-10-04 17:18:04,913: INFO: common: created directory at : artifacts/data_validation]
+[2023-10-04 17:20:28,980: INFO: common: yaml file config\config.yaml loaded successfully]
+[2023-10-04 17:20:28,985: INFO: common: yaml file params.yaml loaded successfully]
+[2023-10-04 17:20:28,988: INFO: common: created directory at : artifacts]
+[2023-10-04 17:20:28,990: INFO: common: created directory at : artifacts/data_validation]
+[2023-10-04 17:38:46,742: INFO: main: Welcome to our custom logging]
+[2023-10-04 17:38:46,744: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2023-10-04 17:38:46,750: INFO: common: yaml file config\config.yaml loaded successfully]
+[2023-10-04 17:38:46,754: INFO: common: yaml file params.yaml loaded successfully]
+[2023-10-04 17:38:46,756: INFO: common: created directory at : artifacts]
+[2023-10-04 17:38:46,759: INFO: common: created directory at : artifacts/data_ingestion]
+[2023-10-04 17:38:50,944: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with the following info  : 
+  Connection: close
+Content-Length: 7903594
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "dbc016a060da18070593b83afff580c9b300f0b6ea4147a7988433e04df246ca"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 8848:7C6D:55AE7:6B26A:651D52A6
+Accept-Ranges: bytes
+Date: Wed, 04 Oct 2023 12:08:48 GMT
+Via: 1.1 varnish
+X-Served-By: cache-maa10226-MAA
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1696421328.312922,VS0,VE270
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 6033689d92e3782a2781ba1de6740d3fc338f612
+Expires: Wed, 04 Oct 2023 12:13:48 GMT
+Source-Age: 0
+
+]
+[2023-10-04 17:38:51,253: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2023-10-04 17:38:51,255: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2023-10-04 17:38:51,258: INFO: common: yaml file config\config.yaml loaded successfully]
+[2023-10-04 17:38:51,259: INFO: common: yaml file params.yaml loaded successfully]
+[2023-10-04 17:38:51,260: INFO: common: created directory at : artifacts]
+[2023-10-04 17:38:51,262: INFO: common: created directory at : artifacts/data_validation]
+[2023-10-04 17:38:51,265: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2023-10-04 19:19:08,823: INFO: common: yaml file config\config.yaml loaded successfully]
+[2023-10-04 19:19:08,847: INFO: common: yaml file params.yaml loaded successfully]
+[2023-10-04 19:19:08,855: INFO: common: created directory at : artifacts]
+[2023-10-04 19:28:32,916: INFO: main: Welcome to our custom logging]
+[2023-10-04 19:28:32,916: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2023-10-04 19:28:32,922: INFO: common: yaml file config\config.yaml loaded successfully]
+[2023-10-04 19:28:32,926: INFO: common: yaml file params.yaml loaded successfully]
+[2023-10-04 19:28:32,928: INFO: common: created directory at : artifacts]
+[2023-10-04 19:28:32,929: INFO: common: created directory at : artifacts/data_ingestion]
+[2023-10-04 19:28:38,235: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with the following info  : 
+  Connection: close
+Content-Length: 7903594
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "dbc016a060da18070593b83afff580c9b300f0b6ea4147a7988433e04df246ca"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 7BBE:1DAD:B6FA1:DD7B1:651D6F89
+Accept-Ranges: bytes
+Date: Wed, 04 Oct 2023 13:58:35 GMT
+Via: 1.1 varnish
+X-Served-By: cache-maa10235-MAA
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1696427914.125888,VS0,VE1022
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: e8282df5adb570e68494a1cebd47bfddf6c807e4
+Expires: Wed, 04 Oct 2023 14:03:35 GMT
+Source-Age: 1
+
+]
+[2023-10-04 19:28:38,534: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2023-10-04 19:28:38,535: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2023-10-04 19:28:38,539: INFO: common: yaml file config\config.yaml loaded successfully]
+[2023-10-04 19:28:38,541: INFO: common: yaml file params.yaml loaded successfully]
+[2023-10-04 19:28:38,542: INFO: common: created directory at : artifacts]
+[2023-10-04 19:28:38,543: INFO: common: created directory at : artifacts/data_validation]
+[2023-10-04 19:28:38,547: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2023-10-04 19:28:38,551: INFO: main: >>>>>> stage Data Transformation stage started <<<<<<]
+[2023-10-04 19:28:38,559: INFO: common: yaml file config\config.yaml loaded successfully]
+[2023-10-04 19:28:38,561: INFO: common: yaml file params.yaml loaded successfully]
+[2023-10-04 19:28:38,563: INFO: common: created directory at : artifacts]
+[2023-10-04 19:28:49,148: INFO: main: >>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x]
+[2023-10-04 21:26:09,896: INFO: common: yaml file config\config.yaml loaded successfully]
+[2023-10-04 21:26:09,928: INFO: common: yaml file params.yaml loaded successfully]
+[2023-10-04 21:26:09,936: INFO: common: created directory at : artifacts]
+[2023-10-04 21:39:33,268: INFO: main: Welcome to our custom logging]
+[2023-10-04 21:39:33,269: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2023-10-04 21:39:33,274: INFO: common: yaml file config\config.yaml loaded successfully]
+[2023-10-04 21:39:33,278: INFO: common: yaml file params.yaml loaded successfully]
+[2023-10-04 21:39:33,280: INFO: common: created directory at : artifacts]
+[2023-10-04 21:39:33,281: INFO: common: created directory at : artifacts/data_ingestion]
+[2023-10-04 21:39:33,282: ERROR: main: local variable 'filename' referenced before assignment]
+Traceback (most recent call last):
+  File "C:\Users\MANIKARAN\Text_Summarization\main.py", line 13, in <module>
+    data_ingestion.main()
+  File "c:\users\manikaran\text_summarization\src\textSummarizer\pipeline\stage_01_data_ingestion.py", line 12, in main
+    data_ingestion.download_file()
+  File "c:\users\manikaran\text_summarization\src\textSummarizer\components\data_ingestion.py", line 23, in download_file
+    logger.info(f"{filename} already exists of size : {get_size(Path(self.config.local_data_files))}")
+UnboundLocalError: local variable 'filename' referenced before assignment
+[2023-10-04 21:42:12,757: INFO: main: Welcome to our custom logging]
+[2023-10-04 21:42:12,757: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2023-10-04 21:42:12,762: INFO: common: yaml file config\config.yaml loaded successfully]
+[2023-10-04 21:42:12,766: INFO: common: yaml file params.yaml loaded successfully]
+[2023-10-04 21:42:12,767: INFO: common: created directory at : artifacts]
+[2023-10-04 21:42:12,768: INFO: common: created directory at : artifacts/data_ingestion]
+[2023-10-04 21:42:12,768: ERROR: main: local variable 'filename' referenced before assignment]
+Traceback (most recent call last):
+  File "C:\Users\MANIKARAN\Text_Summarization\main.py", line 13, in <module>
+    data_ingestion.main()
+  File "c:\users\manikaran\text_summarization\src\textSummarizer\pipeline\stage_01_data_ingestion.py", line 12, in main
+    data_ingestion.download_file()
+  File "c:\users\manikaran\text_summarization\src\textSummarizer\components\data_ingestion.py", line 23, in download_file
+    logger.info(f"{filename} already exists of size : {get_size(Path(self.config.local_data_files))}")
+UnboundLocalError: local variable 'filename' referenced before assignment
+[2023-10-04 21:43:22,964: INFO: main: Welcome to our custom logging]
+[2023-10-04 21:43:22,965: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2023-10-04 21:43:22,969: INFO: common: yaml file config\config.yaml loaded successfully]
+[2023-10-04 21:43:22,973: INFO: common: yaml file params.yaml loaded successfully]
+[2023-10-04 21:43:22,974: INFO: common: created directory at : artifacts]
+[2023-10-04 21:43:22,975: INFO: common: created directory at : artifacts/data_ingestion]
+[2023-10-04 21:43:22,975: ERROR: main: local variable 'filename' referenced before assignment]
+Traceback (most recent call last):
+  File "C:\Users\MANIKARAN\Text_Summarization\main.py", line 13, in <module>
+    data_ingestion.main()
+  File "c:\users\manikaran\text_summarization\src\textSummarizer\pipeline\stage_01_data_ingestion.py", line 12, in main
+    data_ingestion.download_file()
+  File "c:\users\manikaran\text_summarization\src\textSummarizer\components\data_ingestion.py", line 23, in download_file
+    logger.info(f"{filename} already exists of size : {get_size(Path(self.config.local_data_files))}")
+UnboundLocalError: local variable 'filename' referenced before assignment
+[2023-10-04 21:49:09,847: INFO: main: Welcome to our custom logging]
+[2023-10-04 21:49:09,848: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2023-10-04 21:49:09,852: INFO: common: yaml file config\config.yaml loaded successfully]
+[2023-10-04 21:49:09,855: INFO: common: yaml file params.yaml loaded successfully]
+[2023-10-04 21:49:09,857: INFO: common: created directory at : artifacts]
+[2023-10-04 21:49:09,858: INFO: common: created directory at : artifacts/data_ingestion]
+[2023-10-04 21:49:13,123: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with the following info  : 
+  Connection: close
+Content-Length: 7903594
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "dbc016a060da18070593b83afff580c9b300f0b6ea4147a7988433e04df246ca"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: F982:668E:1350A7:171824:651D892D
+Accept-Ranges: bytes
+Date: Wed, 04 Oct 2023 16:19:10 GMT
+Via: 1.1 varnish
+X-Served-By: cache-maa10231-MAA
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1696436350.276420,VS0,VE287
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 882b556fbc101474c5566e4a6134fedf6fe5ef8c
+Expires: Wed, 04 Oct 2023 16:24:10 GMT
+Source-Age: 0
+
+]
+[2023-10-04 21:49:13,359: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2023-10-04 21:49:13,360: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2023-10-04 21:49:13,366: INFO: common: yaml file config\config.yaml loaded successfully]
+[2023-10-04 21:49:13,371: INFO: common: yaml file params.yaml loaded successfully]
+[2023-10-04 21:49:13,373: INFO: common: created directory at : artifacts]
+[2023-10-04 21:49:13,374: INFO: common: created directory at : artifacts/data_validation]
+[2023-10-04 21:49:13,384: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2023-10-04 21:49:13,385: INFO: main: >>>>>> stage Data Transformation stage started <<<<<<]
+[2023-10-04 21:49:13,397: INFO: common: yaml file config\config.yaml loaded successfully]
+[2023-10-04 21:49:13,405: INFO: common: yaml file params.yaml loaded successfully]
+[2023-10-04 21:49:13,407: INFO: common: created directory at : artifacts]
+[2023-10-04 21:49:25,056: INFO: main: >>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x]
+[2023-10-04 21:49:25,057: INFO: main: *******************]
+[2023-10-04 21:49:25,057: INFO: main: >>>>>> stage Model Trainer stage started <<<<<<]
+[2023-10-04 21:49:25,060: INFO: common: yaml file config\config.yaml loaded successfully]
+[2023-10-04 21:49:25,066: INFO: common: yaml file params.yaml loaded successfully]
+[2023-10-04 21:49:25,067: INFO: common: created directory at : artifacts]
+[2023-10-04 21:58:44,023: INFO: main: Welcome to our custom logging]
+[2023-10-04 21:58:44,025: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2023-10-04 21:58:44,028: INFO: common: yaml file config\config.yaml loaded successfully]
+[2023-10-04 21:58:44,035: INFO: common: yaml file params.yaml loaded successfully]
+[2023-10-04 21:58:44,037: INFO: common: created directory at : artifacts]
+[2023-10-04 21:58:44,038: INFO: common: created directory at : artifacts/data_ingestion]
+[2023-10-04 21:58:44,040: ERROR: main: local variable 'filename' referenced before assignment]
+Traceback (most recent call last):
+  File "C:\Users\MANIKARAN\Text_Summarization\main.py", line 13, in <module>
+    data_ingestion.main()
+  File "c:\users\manikaran\text_summarization\src\textSummarizer\pipeline\stage_01_data_ingestion.py", line 12, in main
+    data_ingestion.download_file()
+  File "c:\users\manikaran\text_summarization\src\textSummarizer\components\data_ingestion.py", line 23, in download_file
+    logger.info(f"{filename} already exists of size : {get_size(Path(self.config.local_data_files))}")
+UnboundLocalError: local variable 'filename' referenced before assignment
+[2023-10-04 21:59:43,939: INFO: main: Welcome to our custom logging]
+[2023-10-04 21:59:43,940: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2023-10-04 21:59:43,944: INFO: common: yaml file config\config.yaml loaded successfully]
+[2023-10-04 21:59:43,946: INFO: common: yaml file params.yaml loaded successfully]
+[2023-10-04 21:59:43,947: INFO: common: created directory at : artifacts]
+[2023-10-04 21:59:43,948: INFO: common: created directory at : artifacts/data_ingestion]
+[2023-10-04 21:59:47,944: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with the following info  : 
+  Connection: close
+Content-Length: 7903594
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "dbc016a060da18070593b83afff580c9b300f0b6ea4147a7988433e04df246ca"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: F982:668E:1350A7:171824:651D892D
+Accept-Ranges: bytes
+Date: Wed, 04 Oct 2023 16:29:44 GMT
+Via: 1.1 varnish
+X-Served-By: cache-maa10239-MAA
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1696436985.521191,VS0,VE331
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: d1b7301239886e02921be97fc41d5ab3afa05b87
+Expires: Wed, 04 Oct 2023 16:34:44 GMT
+Source-Age: 0
+
+]
+[2023-10-04 21:59:48,192: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2023-10-04 21:59:48,194: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2023-10-04 21:59:48,201: INFO: common: yaml file config\config.yaml loaded successfully]
+[2023-10-04 21:59:48,207: INFO: common: yaml file params.yaml loaded successfully]
+[2023-10-04 21:59:48,208: INFO: common: created directory at : artifacts]
+[2023-10-04 21:59:48,210: INFO: common: created directory at : artifacts/data_validation]
+[2023-10-04 21:59:48,213: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2023-10-04 21:59:48,216: INFO: main: >>>>>> stage Data Transformation stage started <<<<<<]
+[2023-10-04 21:59:48,224: INFO: common: yaml file config\config.yaml loaded successfully]
+[2023-10-04 21:59:48,236: INFO: common: yaml file params.yaml loaded successfully]
+[2023-10-04 21:59:48,238: INFO: common: created directory at : artifacts]
+[2023-10-04 21:59:58,705: INFO: main: >>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x]
+[2023-10-04 22:01:05,612: INFO: common: yaml file config\config.yaml loaded successfully]
+[2023-10-04 22:01:05,618: INFO: common: yaml file params.yaml loaded successfully]
+[2023-10-04 22:01:05,621: INFO: common: created directory at : artifacts]
+[2023-10-04 22:04:45,312: INFO: common: yaml file config\config.yaml loaded successfully]
+[2023-10-04 22:04:45,336: INFO: common: yaml file params.yaml loaded successfully]
+[2023-10-04 22:04:45,348: INFO: common: created directory at : artifacts]
